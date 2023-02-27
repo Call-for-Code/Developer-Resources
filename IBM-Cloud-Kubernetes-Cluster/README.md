@@ -75,7 +75,7 @@ To provide web access to applications, you will make use of the following:
 
 1. To install the **ingress controller**, run the following command:
    ```
-   kubectl apply -f https://raw.github.ibm.com/IBM-DEG/IBM-Coding-Challenges-Platform/main/Call-for-Code-Global-Challenge/Skills-Network/CFCCompetitionContents/IBM-Cloud-Kubernetes-Cluster/assets/manifests/nginx-ingress-controller-daemon-v3.0.2.yaml?token=AAABUGPCAUV7GPP56LFWSZ3D7BNOI
+   kubectl apply -f https://raw.githubusercontent.com/Call-for-Code/Developer-Resources/main/IBM-Cloud-Kubernetes-Cluster/assets/manifests/nginx-ingress-controller-daemon-v3.0.2.yaml
    ```
 2. To monitor progress, run the following command:
    ```
